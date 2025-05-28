@@ -1,1 +1,1 @@
-# SuperCoolProjectThatTotallyDoesn-tStillNeedAName
+# SuperCoolProjectThatTotallyDoesNotStillNeedAName
